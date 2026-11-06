@@ -376,8 +376,6 @@ Với khách hàng, điều đó có nghĩa là họ đã thực hiện đúng m
 
 Em nghĩ mục tiêu của mình không phải là chọn thiết bị nào gửi dữ liệu sau cùng, mà là giữ được những thay đổi khách hàng thực sự muốn thực hiện.
 
-Em nghĩ mục tiêu của mình không phải là chọn thiết bị nào gửi dữ liệu sau cùng, mà là giữ được những thay đổi khách hàng thực sự muốn thực hiện.
-
 Em đề xuất mình chia thành hai giai đoạn để vừa kiểm soát thời gian vừa giảm rủi ro:
 
 **Giai đoạn 1:** Ưu tiên xử lý những trường hợp phổ biến như thêm mã, xóa mã và giữ nguyên các thay đổi đã thực hiện trên thiết bị khác. Đây là phần trực tiếp ngăn sự cố vừa xảy ra.
